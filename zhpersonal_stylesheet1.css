@@ -1,0 +1,57 @@
+body {
+	font-family: Helvetica;
+	font-size: 16px;
+}
+
+#menu {
+	float: right;
+	margin-top: 30px;
+	margin-right: 20px;
+	text-align: right;
+	width: 150px;
+	font-family: "Myriad Pro", "Helvetica", Helvetica;
+}
+
+#menu .title {
+	font-size: 16px;
+}
+
+#menu ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+#menu li {
+
+}
+
+#menu li a {
+	display: inline-block;
+	color: #4787cc;
+}
+
+#left {
+	height: 1px;
+	float: left;
+	display: block;
+	min-width: 0;
+	overflow: hidden;
+	width: 200px;
+	margin:0;
+	padding: 0;
+}
+
+#content {
+	margin-top: 15px;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
